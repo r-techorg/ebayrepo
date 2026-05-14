@@ -6,3 +6,4 @@ basung
 Bali
 Tiko
 jenka
+batibo
