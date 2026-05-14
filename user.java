@@ -1,4 +1,3 @@
-sama
 fe
 jos
 farmer
