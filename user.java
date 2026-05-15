@@ -8,3 +8,4 @@ Tiko
 jenka
 batibo
 yaounde
+Toro
