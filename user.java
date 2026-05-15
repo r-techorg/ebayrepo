@@ -7,3 +7,4 @@ Bali
 Tiko
 jenka
 batibo
+yaounde
